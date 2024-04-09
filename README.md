@@ -25,7 +25,7 @@
   <br>
     <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlkko&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" alt="languages graph" ><br>
-      - 🌱 I’m currently learning ... C# and design patterns
+      - 🌱 I’m currently learning C# and design patterns
   </div>
   
   <div>
