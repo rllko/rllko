@@ -10,8 +10,7 @@ If you're wondering why all my repositories are forked, i lost access to my old 
 
  <img src="https://komarev.com/ghpvc/?username=rikkoricardo&label=Profile%20views&color=0e75b6&style=flat" alt="rikkoricardo" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlkko&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" alt="languages graph" ><br>
-  </div>
+
   
   <div>
   </div>
