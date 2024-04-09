@@ -1,7 +1,8 @@
-# 💫 About Me:</h1>
+# 💫 About Me:
   
 🧑‍💻I’m passionate about software development and cybersecurity.<br>
-✒️I’m currently pursuing degree in Information Technology.<br>
+✒️I’m currently pursuing a Licenciate Degree in Information Technology.<br>
+
 If you're wondering why all my repositories are forked, i lost access to my old account.
 
 # 💻» Tech Stack:
