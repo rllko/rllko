@@ -1,6 +1,6 @@
 # 💫 About Me:
   
-🧑‍💻I’m passionate about software development and cybersecurity.<br>
+🧑‍💻I’m passionate about software design and cybersecurity.<br>
 ✒️I’m currently pursuing a Licenciate Degree in Information Technology.<br>
 
 # 💻» Tech Stack:
