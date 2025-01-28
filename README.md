@@ -1,5 +1,5 @@
-# 💫 About Me:
-  
+Hi 👋, I'm Ricardo  
+
 🧑‍💻I’m passionate about Software Design and Cybersecurity.<br>
 ✒️I’m currently pursuing a Licenciate Degree in Information Technology.<br>
 
