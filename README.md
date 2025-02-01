@@ -1,7 +1,7 @@
 # Hi 👋, I'm Ricardo  
 
-<h5>🧑‍💻 I’m passionate about Software Design and Cybersecurity.<br>
-✒️ I’m currently pursuing a Licenciate Degree in Information Technology.<br></h5>
+🧑‍💻 I’m passionate about Software Design and Cybersecurity.<br>
+✒️ I’m currently pursuing a Licenciate Degree in Information Technology.<br>
 
 ## 💻 Tech Stack  
 
@@ -28,7 +28,7 @@
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
   <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></a>
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="SQL Server" width="40" height="40"/></a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://imgs.search.brave.com/Tq_r4EhbCLPU7AXypIw3nFJlTQe6LkrHZuWeZrAGbsU/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC9zcWwtZGF0/YWJhc2Utc3FsLWF6/dXJlLWljb24tMjQ1/eDI1Ni15Z285cHJo/NS5wbmc" alt="SQL Server" width="40" height="40"/></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
   <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></a>
 </p>
