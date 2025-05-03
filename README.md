@@ -16,5 +16,5 @@
 
 ## 📊 GitHub Stats  
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rllko&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="35%"/>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rllko&show_icons=false&locale=en&layout=compact" alt="rllko" /></p>
 </p>
