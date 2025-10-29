@@ -1,7 +1,7 @@
 # Hi 👋, I'm Ricardo  
 
 🧑‍💻 I’m passionate about Software Design and Cybersecurity.<br>
-✒️ I’m currently pursuing a Masters Degree in Software Engineering.<br>
+✒️ Currently pursuing a Masters Degree in Software Engineering.<br>
 
 ## 💻 Tech Stack  
 
