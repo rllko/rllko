@@ -1,7 +1,7 @@
 # Hello 👋, I'm Ricardo
 
-I’m passionate about Software Design, Cybersecurity and i'm
-Currently pursuing a Masters Degree in Software Engineering
+- I’m passionate about Software Design, Cybersecurity
+- I'm Currently pursuing a Masters Degree in Software Engineering
 
 ## Tech Stack
 
