@@ -1,22 +1,15 @@
-# Hi 👋, I'm Ricardo  
+# Hello 👋, I'm Ricardo
 
-🧑‍💻 I’m passionate about Software Design and Cybersecurity.<br>
-✒️ Currently pursuing a Masters Degree in Software Engineering.<br>
+I’m passionate about Software Design, Cybersecurity and i'm
+Currently pursuing a Masters Degree in Software Engineering
 
-## 💻 Tech Stack  
+## Tech Stack
 
-### 🚀 Programming Languages & Frameworks
-<p align="left">  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a> <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a> <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a> <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></a><a href="https://vuejs.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" alt="Vue" width="40" height="40"/></a>
-<a href="https://nextjs.org/" target="_blank"><img src="https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png" alt="Angular" width="40" height="40"/></a>
-<a href="https://nestjs.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NestJS.svg/1000px-NestJS.svg.png" alt="NestJS" width="40" height="40"/></a> <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a> </p>
+### Programming Languages & Frameworks
+[![Programming Languages & Frameworks](https://skillicons.dev/icons?i=cs,c,ts,java,php,vue,nestjs,nextjs,react,py,go&theme=light)](https://skillicons.dev)
 
-### 🛠️ Tools & Technologies
+### Tools & Technologies
+[![Tools & Technologies](https://skillicons.dev/icons?i=bash,docker,dotnet,git,linux,nginx,redis,postgres,mysql,obsidian,vim&theme=light)](https://skillicons.dev)
 
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/></a> <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a> <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/></a> <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a> <a href="https://www.nginx.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="NGINX" width="40" height="40"/></a> <a href="https://www.redis.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/></a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/></a> <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a> <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></a> </p>
-
----
-
-## 📊 GitHub Stats  
-<p>
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rllko&show_icons=false&locale=en&layout=compact" alt="rllko" /></p>
-</p>
+## GitHub Stats:
+![](https://nirzak-streak-stats.vercel.app/?user=rllko&theme=dark&hide_border=true)<br/>
