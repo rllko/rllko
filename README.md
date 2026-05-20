@@ -2,6 +2,7 @@
 
 - I’m passionate about Software Design, Cybersecurity
 - I'm Currently pursuing a Masters Degree in Software Engineering
+- Current Main Language: Golang
 
 ## Tech Stack
 
