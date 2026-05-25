@@ -2,7 +2,7 @@
 
 - I’m passionate about Software Design, Cybersecurity
 - I'm Currently pursuing a Masters Degree in Software Engineering
-- Current Main Language: Golang ( check out my [neetcode exercises](https://github.com/rllko/neetcode-submissions) )
+- Current Main Language: Golang
 ## Tech Stack
 
 ### Programming Languages & Frameworks
