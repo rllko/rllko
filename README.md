@@ -4,5 +4,4 @@
 - I'm Currently pursuing a Masters Degree in Software Engineering
   
 ## Tech Stack
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rllko&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=rllko&layout=compact&langs_count=6&hide_values=true&disable_animations=true)](https://github-stats-extended.vercel.app/api/top-langs?username=rllko&layout=compact&langs_count=6&hide_values=true&disable_animations=true)
